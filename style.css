@@ -1,0 +1,30 @@
+body {
+  
+}
+
+
+
+#top {
+  margin: 0 auto;
+  text-align:center;
+  fill:white;
+  color:white;
+  filter:color(white);
+}
+
+
+.logo {
+  font-size: 55px;
+  font-family: 'Syne Mono', monospace;
+  text-align: center;
+  margin: 0 auto;
+  color:white;
+}
+
+
+header .icon {
+  color:white;
+  text-align: center;
+
+}
+
