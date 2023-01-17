@@ -7,9 +7,11 @@ body {
 #top {
   margin: 0 auto;
   text-align:center;
-  fill:white;
   color:white;
-  filter:color(white);
+}
+
+.icon {
+    fill:white;
 }
 
 
